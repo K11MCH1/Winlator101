@@ -1,0 +1,81 @@
+name: Game Compatibility
+description: Add a new game to the compatibility database
+title: "<Full game name displayed in Strato>"
+labels: ["triage"]
+body:
+  - type: checkboxes
+    attributes:
+      label: Is there an existing issue for this?
+      description: Search to see if an issue already exists for this game
+      options:
+      - label: I have searched the existing issues
+        required: true
+  - type: input
+    id: build
+    attributes:
+      label: Tested Build
+      description: Enter the GitHub Releases build number of the build tested (It should be `{Version}` E.g. `1.0.0`)
+      placeholder: #1337
+    validations:
+      required: true
+  - type: dropdown
+    id: androidversion
+    attributes:
+      label: Android Version
+      options:
+      - 15 Beta
+      - 14
+      - 13
+      - 12
+      - 11
+      - 10
+      default: 1
+    validations:
+      required: true
+  - type: dropdown
+    id: socvendor
+    attributes:
+      label: SoC type
+      options:
+      - Snapdragon
+      - Mediatek
+      - Exynos
+      - Kirin
+      - Tegra
+      - UNISOC
+      - Other
+    validations:
+      required: true
+  - type: input
+    id: specs
+    attributes:
+      label: "Device GSMArena link"
+      description: "[GSMArena](https://www.gsmarena.com/)"
+      placeholder: "https://www.gsmarena.com/<YOUR DEVICE>"
+    validations:
+      required: true
+  - type: textarea
+    id: behaviour
+    attributes:
+      label: Game Behaviour
+      description: Screenshots and a descripton of what works and what doesn't
+      placeholder: |
+        "- Mario's left eye is missing <screenshot>"
+        "- Audio is broken"
+        "Screenshots of game: <screenshot>"
+    validations:
+      required: true
+  - type: checkboxes
+    attributes:
+      label: Is Log Level is set to 'Info'?
+      description: Log Level  must be set to `Info` for all attached logs
+      options:
+      - label: "Yes"
+        required: true
+  - type: textarea
+    id: log
+    attributes:
+      label: Log file
+      description: Please attach a zipped emulator log file (can be saved with button next to settings)
+    validations:
+      required: true
