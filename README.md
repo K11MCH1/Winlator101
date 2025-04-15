@@ -17,6 +17,18 @@ The official Github repo is (<https://github.com/brunodev85/winlator>)
 Winlator is an Android application that lets you run Windows applications with Wine/Proton and Box86/Box64/Box32/FEXcore.  
 (depending on the version)
 
+# Winlator versions
+
+[Official Winlator](https://github.com/brunodev85/winlator)  
+[Winlator Cmod](https://github.com/coffincolors/winlator/releases)  
+[Winlator Cmod Bionic](https://github.com/jhinzuo/winlator_bionic/releases)  
+[Winlator Afeimod](https://github.com/afeimod/winlator-mod/releases/)  
+[Winlator Frost](https://github.com/MrPhryaNikFrosty/Winlator-Frost/releases)  
+[Winlator AJAY](https://github.com/ajay9634/winlator-ajay/releases)  
+[Winlator Longjunyu2](https://github.com/longjunyu2/winlator/releases) (development paused)  
+[WinlatorMali](https://github.com/Fcharan/WinlatorMali/releases) (probably ceased)  
+
+
 # Compatibility list  
 
 The [Issues page](https://github.com/K11MCH1/Winlator101/issues) contains a comprehensive repository documenting GitHub Issues related to Windows applications and their compatibility status with Winlator and its various forks. It tracks regressions and improvements in a title's functionality—ranging from `nothing` to  `crash` or fully `playable` based off the `soc` and `winlator version`—while incorporating metadata for efficient retesting. 
@@ -38,15 +50,3 @@ As a general guideline, media should be included when it is useful to do so and 
 * **Freeze**: A video is generally useful to fully understand what the bug is and in this case it should be included, it is important to show Performance Statistics by having DXVK_HUD, GALLIUM_HUD, MANGO_HUD, mesa hud or the Winlator HUD enabled in this case as it helps to determine the exact point of the freeze.
 * **Auditory Glitch**: A video is useful when there are random dropouts in audio or if it doesn't sound correct, an exception is when the game is not playing any audio at all in which case there is no need to upload a image/video.
 * **Visual Bug/Glitch**: At minimum, a photo is required here when the glitching is persistent. A video is useful if the glitch is very visually diverse or pops in occassionally rather than being persistent.
-
-
-# Winlator versions
-
-[Official Winlator](https://github.com/brunodev85/winlator)  
-[Winlator Cmod](https://github.com/coffincolors/winlator/releases)  
-[Winlator Cmod Bionic](https://github.com/jhinzuo/winlator_bionic/releases)  
-[Winlator Afeimod](https://github.com/afeimod/winlator-mod/releases/)  
-[Winlator Frost](https://github.com/MrPhryaNikFrosty/Winlator-Frost/releases)  
-[Winlator AJAY](https://github.com/ajay9634/winlator-ajay/releases)  
-[Winlator Longjunyu2](https://github.com/longjunyu2/winlator/releases) (development paused)  
-[WinlatorMali](https://github.com/Fcharan/WinlatorMali/releases) (probably ceased)  
