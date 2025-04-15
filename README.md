@@ -24,7 +24,7 @@ Given the fragmentation of Android devices and the variety of existing Winlator 
 You can start contributing by checking if any title you want to test already has a [**issue**](https://github.com/K11MCH1/Winlator101/issues) by using the search feature: 
 
 <p align="center">
-	<img src="search_tool.gif" width="376" height="128" alt="Search Tool" />  
+	<img src="search_tool.gif" alt="Search Tool" />  
 </p>
 
 * **If you can find one**: You can comment on the existing issue given what you see compatibility differs from the previous report. It is recommend to tag along a Strato log (with log level `Info`) and clearly describe the differences you're seeing with a brief description of your device. 
