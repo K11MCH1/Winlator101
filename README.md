@@ -6,6 +6,8 @@
 
 ## Your source for Winlator usage, components and more...
 
+# 🚧 THIS REPOSITORY IS UNDER CONSTRUCTION 🚧
+
 **This GitHub repo (<https://github.com/K11MCH1/Winlator101>) is NOT the official
 source for the project `Winlator`**.   
 The official Github repo is (<https://github.com/brunodev85/winlator>)
@@ -41,6 +43,3 @@ You can start contributing by checking if any title you want to test already has
 [Winlator AJAY](https://github.com/ajay9634/winlator-ajay/releases)  
 [Winlator Longjunyu2](https://github.com/longjunyu2/winlator/releases) (development paused)  
 [WinlatorMali](https://github.com/Fcharan/WinlatorMali/releases) (probably ceased)  
-
-
-# 🚧 THIS REPOSITORY IS UNDER CONSTRUCTION 🚧
