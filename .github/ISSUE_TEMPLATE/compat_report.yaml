@@ -72,6 +72,73 @@ body:
       default: 0  # First option selected
 
   - type: dropdown
+    id: bigblock
+    attributes:
+      label: "BIGBLOCK"
+      options:
+        - 0
+        - 1
+        - 2
+        - 3
+      default: 0  # First option selected
+
+  - type: dropdown
+    id: strongmem
+    attributes:
+      label: "STRONGMEM"
+      options:
+        - 0
+        - 1
+        - 2
+        - 3
+      default: 0  # First option selected
+
+  - type: dropdown
+    id: fastnan
+    attributes:
+      label: "FASTNAN"
+      options:
+        - DISABLED
+        - ENABLED
+      default: 0  # First option selected
+
+  - type: dropdown
+    id: fastround
+    attributes:
+      label: "FASTROUND"
+      options:
+        - DISABLED
+        - ENABLED
+      default: 0  # First option selected
+
+  - type: dropdown
+    id: x87double
+    attributes:
+      label: "X87DOUBLE"
+      options:
+        - DISABLED
+        - ENABLED
+      default: 0  # First option selected
+
+  - type: dropdown
+    id: forward
+    attributes:
+      label: "DYNAREC FORWARD"
+      options:
+        - 0
+        - 128
+        - 256
+        - 512
+        - 1024
+      default: 3  # Fourth option selected
+
+
+
+
+
+      
+
+  - type: dropdown
     id: androidversion
     attributes:
       label: "Android Version"
