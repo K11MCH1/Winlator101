@@ -71,7 +71,7 @@ body:
 
   - type: markdown
     attributes:
-      value: "**IF YOU SELECTED 'FEXcore', PLEASE FILL OUT THE OPTIONS BELOW.**"
+      value: "**IF YOU SELECTED 'FEXcore', PLEASE FILL OUT THE OPTIONS BELOW, ELSE SKIP.**"
 
   - type: dropdown
     id: tsomode
@@ -100,7 +100,8 @@ body:
       options:
         - DISABLED
         - ENABLED
-      default: 0  # First option selected  
+      default: 0  # First option selected
+      
 
 
   - type: markdown
