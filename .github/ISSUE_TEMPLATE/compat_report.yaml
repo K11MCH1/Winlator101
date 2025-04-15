@@ -22,7 +22,7 @@ body:
     attributes:
       label: "Winlator version"
       description: "Enter the Winlator version used (e.g. `Winlator Cmod 11 Beta5`)."
-      placeholder: "Winlator Frost, Afei, Cmod etc.."
+      placeholder: "Winlator 9, 10, Cmod, Afei etc.."
     validations:
       required: true
 
@@ -35,20 +35,20 @@ body:
     validations:
       required: true
 
-  - type: dropdown
+  - type: input
     id: box
     attributes:
       label: "BOX version"
-      description: "Select the BOX version used."
-      options:
-        - BOX64
-        - BOX86
-        - WOW64
-        - FEXcore
-      default: 0  # First item in the list is selected by default
+      description: "Enter the BOX version used (e.g. `BOX64 0.3.5` or `BOX32`)."
+      placeholder: "BOX64 0.3.5"
     validations:
       required: true
-
+  - type: input
+    id: box commit
+    attributes:
+      label: "Optional: Commit"
+      description: "Enter the commit version (e.g. `6c46e3d-1`)."
+      placeholder: "xxxxxxx"
 
 
   - type: markdown
