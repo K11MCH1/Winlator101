@@ -272,6 +272,29 @@ body:
       required: true
 
   - type: dropdown
+    id: audio
+    attributes:
+      label: "Audio Driver"
+      options:
+        - ALSA
+        - PulseAudio
+      default: 0  # First option selected
+
+  - type: dropdown
+    id: services
+    attributes:
+      label: "Startup Selection"
+      options:
+        - Normal
+        - Essential
+        - Aggressive
+      default: 0  # First option selected
+
+
+
+
+
+  - type: dropdown
     id: androidversion
     attributes:
       label: "Android Version"
