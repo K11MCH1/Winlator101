@@ -29,7 +29,7 @@ body:
     validations:
       required: true
       
-  - type: radio
+  - type: checkboxes
     id: wine
     attributes:
       label: BOX version
