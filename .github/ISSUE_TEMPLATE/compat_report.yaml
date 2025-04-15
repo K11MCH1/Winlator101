@@ -35,13 +35,68 @@ body:
       label: BOX version
       description: Select the BOX version used.
       options:
-      - lBOX64
+      - BOX64
       - BOX86
       - WOW64
       - FEXcore
     validations:
       required: true
-      
+
+  - type: dropdown
+    id: preset
+    attributes:
+      label: "Select a preset"
+      options:
+        - Stability
+        - Compatibility
+        - Intermediate
+        - Performance
+        - Custom
+        - FEXcore
+
+  - type: markdown
+    attributes:
+      value: "**If you selected 'Custom', please fill out the options below.**"
+
+  - type: dropdown
+    id: safeflags
+    attributes:
+      label: "SAFEFLAGS"
+      options:
+        - 0
+        - 1
+        - 2
+
+  - type: dropdown
+    id: bigblock
+    attributes:
+      label: "BIGBLOCK"
+      options:
+        - 0
+        - 1
+        - 2
+        - 3
+
+  - type: dropdown
+    id: strongmem
+    attributes:
+      label: "STRONGMEM"
+      options:
+        - 0
+        - 1
+        - 2
+        - 3
+
+  - type: checboxes
+    id: fastnan
+    attributes:
+      label: "FASTNAN"
+      options:
+        - 0
+        - 1
+        - 2
+        - 3  
+  
   - type: dropdown
     id: androidversion
     attributes:
