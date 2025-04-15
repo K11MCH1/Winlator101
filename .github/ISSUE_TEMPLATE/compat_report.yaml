@@ -47,8 +47,8 @@ body:
   - type: input
     id: box_commit_id
     attributes:
-      label: "Optional: Commit id"
-      description: "Enter the commit id (e.g. `6c46e3d-1`)."
+      label: "Commit id"
+      description: "OPTIONAL: Enter the commit id (e.g. `6c46e3d-1`)."
       placeholder: "xxxxxxx"
 
 
