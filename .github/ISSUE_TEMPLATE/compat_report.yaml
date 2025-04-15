@@ -39,6 +39,7 @@ body:
       - BOX86
       - WOW64
       - FEXcore
+      default: 1
     validations:
       required: true
 
@@ -53,6 +54,7 @@ body:
         - Performance
         - Custom
         - FEXcore
+        default: 2
 
   - type: markdown
     attributes:
@@ -93,7 +95,8 @@ body:
       label: "FASTNAN"
       options:
         - label: DISABLED
-        - label: ENABLED 
+        - label: ENABLED
+        default: 1
   
   - type: dropdown
     id: androidversion
