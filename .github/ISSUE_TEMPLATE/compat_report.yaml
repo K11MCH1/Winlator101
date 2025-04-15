@@ -10,6 +10,7 @@ body:
       options:
       - label: I have searched the existing issues
         required: true
+        
   - type: input
     id: build
     attributes:
@@ -18,6 +19,16 @@ body:
       placeholder: #1337
     validations:
       required: true
+      
+  - type: input
+    id: wine
+    attributes:
+      label: Wine version
+      description: Enter the Wine version used (It should be E.g. `Wine 9.21`)
+      placeholder: #Wine 9.2
+    validations:
+      required: true
+      
   - type: dropdown
     id: androidversion
     attributes:
@@ -32,6 +43,7 @@ body:
       default: 1
     validations:
       required: true
+      
   - type: dropdown
     id: socvendor
     attributes:
@@ -46,14 +58,7 @@ body:
       - Other
     validations:
       required: true
-  - type: input
-    id: wine
-    attributes:
-      label: Wine version
-      description: Enter the Wine version used (It should be E.g. `Wine 9.21`)
-      placeholder: #Wine 9.2
-    validations:
-      required: true
+      
   - type: input
     id: specs
     attributes:
@@ -62,6 +67,7 @@ body:
       placeholder: "https://www.gsmarena.com/<YOUR DEVICE>"
     validations:
       required: true
+      
   - type: textarea
     id: behaviour
     attributes:
@@ -73,6 +79,7 @@ body:
         "Screenshots of game: <screenshot>"
     validations:
       required: true
+      
   - type: checkboxes
     attributes:
       label: Is Log Level is set to 'Info'?
@@ -80,6 +87,7 @@ body:
       options:
       - label: "Yes"
         required: true
+        
   - type: textarea
     id: log
     attributes:
