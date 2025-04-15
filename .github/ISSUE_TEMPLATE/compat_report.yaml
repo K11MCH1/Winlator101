@@ -1,6 +1,6 @@
 name: Game Compatibility
 description: Add a new game to the compatibility database
-title: "<Full game name displayed in Strato>"
+title: "<Full game name>"
 labels: ["triage"]
 body:
   - type: checkboxes
