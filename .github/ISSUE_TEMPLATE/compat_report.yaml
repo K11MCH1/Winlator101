@@ -13,8 +13,8 @@ body:
   - type: input
     id: build
     attributes:
-      label: Tested Build
-      description: Enter the GitHub Releases build number of the build tested (It should be `{Version}` E.g. `1.0.0`)
+      label: Winlator version
+      description: Enter the Winlator version used (It should be E.g. `Winlator Cmod 11 Beta5`)
       placeholder: #1337
     validations:
       required: true
@@ -44,6 +44,14 @@ body:
       - Tegra
       - UNISOC
       - Other
+    validations:
+      required: true
+  - type: input
+    id: wine
+    attributes:
+      label: Wine version
+      description: Enter the Wine version used (It should be E.g. `Wine 9.21`)
+      placeholder: #Wine 9.2
     validations:
       required: true
   - type: input
