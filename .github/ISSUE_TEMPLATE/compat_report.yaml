@@ -12,6 +12,10 @@ body:
         - label: "I have searched the existing issues"
           required: true
 
+- type: markdown
+  attributes:
+    value: "WINLATOR SETTINGS"
+
   - type: input
     id: build
     attributes:
