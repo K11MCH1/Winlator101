@@ -44,10 +44,10 @@ body:
     validations:
       required: true
   - type: input
-    id: box_commit
+    id: box_commit_id
     attributes:
-      label: "Optional: Commit"
-      description: "Enter the commit version (e.g. `6c46e3d-1`)."
+      label: "Optional: Commit id"
+      description: "Enter the commit id (e.g. `6c46e3d-1`)."
       placeholder: "xxxxxxx"
 
 
@@ -68,6 +68,40 @@ body:
         - Custom
         - FEXcore
       default: 1  # "Compatibility" is the second item, so index = 1
+
+  - type: markdown
+    attributes:
+      value: "**IF YOU SELECTED 'FEXcore', PLEASE FILL OUT THE OPTIONS BELOW.**"
+
+  - type: dropdown
+    id: tsomode
+    attributes:
+      label: "TSOMode"
+      options:
+        - DISABLED
+        - FASTEST
+        - FAST
+        - SLOW
+      default: 0  # First option selected
+
+  - type: dropdown
+    id: x87mode
+    attributes:
+      label: "X87Mode"
+      options:
+        - FAST
+        - SLOW
+      default: 0  # First option selected
+
+  - type: dropdown
+    id: multiblock
+    attributes:
+      label: "Multiblock"
+      options:
+        - DISABLED
+        - ENABLED
+      default: 0  # First option selected  
+
 
   - type: markdown
     attributes:
