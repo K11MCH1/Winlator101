@@ -44,7 +44,7 @@ body:
     validations:
       required: true
   - type: input
-    id: box commit
+    id: box_commit
     attributes:
       label: "Optional: Commit"
       description: "Enter the commit version (e.g. `6c46e3d-1`)."
