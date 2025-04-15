@@ -54,7 +54,7 @@ body:
         - Performance
         - Custom
         - FEXcore
-        default: Compatibility
+      default: "Compatibility"
 
   - type: markdown
     attributes:
