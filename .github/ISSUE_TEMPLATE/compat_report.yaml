@@ -220,7 +220,29 @@ body:
       default: 0  # First option selected
 
 
+  - type: markdown
+    attributes:
+      value: "# **CONTAINER/SHORTCUT SETTINGS**"
 
+  - type: checkboxes
+    id: bionic
+    attributes:
+      label: "BIONIC CONTAINER?"
+      description: "If this is a Bionic container, check this."
+      options:
+        - label: "This is a Bionic container."
+          required: true
+
+
+
+  - type: dropdown
+    id: dxvk
+    attributes:
+      label: "DXVK"
+      options:
+        - DISABLED
+        - ENABLED
+      default: 0  # First option selected
       
 
   - type: dropdown
