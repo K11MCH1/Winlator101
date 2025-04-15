@@ -41,44 +41,6 @@ body:
         four: FEXcore
     validations:
       required: true
-
-  - type: dropdown
-    id: preset
-    attributes:
-      label: "Select a preset"
-      options:
-        one: Stability
-        two: Compatibility
-        three: Intermediate
-        four: Performance
-        five: Custom
-      onSelect:
-        Custom:
-          type: group
-          fields:
-            custom_option_1:
-              type: dropdown
-              label: "SAFEFLAGS"
-              options:
-                one: 0
-                two: 1
-                three: 2
-            custom_option_2:
-              type: dropdown
-              label: "Select Custom Option 2"
-              options:
-                - Custom Choice X
-                - Custom Choice Y
-                - Custom Choice Z
-            custom_option_3:
-              type: dropdown
-              label: "Select Custom Option 3"
-              options:
-                - Custom Choice 1
-                - Custom Choice 2
-                - Custom Choice 3
-
-
       
   - type: dropdown
     id: androidversion
