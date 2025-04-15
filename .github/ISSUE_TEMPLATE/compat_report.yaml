@@ -321,7 +321,7 @@ body:
   - type: textarea
     id: log
     attributes:
-      label: "Behavior, Extra information, pics, vids and log file"
-      description: "Add any extra information, such as dependencies, footage, pictures..."
+      label: "Behavior, Extra information, pics, vids, log file and RC file"
+      description: "Add any extra information, such as dependencies, footage, pictures RC files..."
     validations:
       required: true
