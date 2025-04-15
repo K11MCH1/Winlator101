@@ -24,10 +24,61 @@ body:
     id: wine
     attributes:
       label: Wine version
-      description: Enter the Wine version used (It should be E.g. `Wine 9.21`)
+      description: Enter the Wine version used (It should be E.g. `Wine 9.21` or `Proton 9.2`)
       placeholder: #Wine 9.2
     validations:
       required: true
+      
+  - type: radio
+    id: wine
+    attributes:
+      label: BOX version
+      description: Select the BOX version used.
+      options:
+        one: BOX64
+        two: BOX86
+        three: WOW64
+        four: FEXcore
+    validations:
+      required: true
+
+  - type: dropdown
+    id: preset
+    attributes:
+      label: "Select a preset"
+      options:
+        one: Stability
+        two: Compatibility
+        three: Intermediate
+        four: Performance
+        five: Custom
+      onSelect:
+        Custom:
+          type: group
+          fields:
+            custom_option_1:
+              type: dropdown
+              label: "SAFEFLAGS"
+              options:
+                one: 0
+                two: 1
+                three: 2
+            custom_option_2:
+              type: dropdown
+              label: "Select Custom Option 2"
+              options:
+                - Custom Choice X
+                - Custom Choice Y
+                - Custom Choice Z
+            custom_option_3:
+              type: dropdown
+              label: "Select Custom Option 3"
+              options:
+                - Custom Choice 1
+                - Custom Choice 2
+                - Custom Choice 3
+
+
       
   - type: dropdown
     id: androidversion
