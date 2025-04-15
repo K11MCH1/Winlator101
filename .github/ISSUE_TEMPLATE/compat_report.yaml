@@ -295,15 +295,15 @@ body:
   - type: dropdown
     id: socvendor
     attributes:
-      label: SoC type
+      label: SoC
       options:
-      - Snapdragon
-      - Mediatek
-      - Exynos
-      - Kirin
-      - Tegra
-      - UNISOC
-      - Other
+      - 8 Elite
+      - 8 Gen3
+      - G3X Gen2
+      - 8 Gen2
+      - 8 Gen1
+      - sd888
+      - sd870
     validations:
       required: true
 
