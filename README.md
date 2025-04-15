@@ -27,8 +27,8 @@ You can start contributing by checking if any title you want to test already has
 	<img src="search_tool.gif" alt="Search Tool" />  
 </p>
 
-* **If you can find one**: You can comment on the existing issue given what you see compatibility differs from the previous report. It is recommend to tag along a Strato log (with log level `Info`) and clearly describe the differences you're seeing with a brief description of your device. 
-* **If you cannot find an existing report**: You can go ahead and [create an issue](https://github.com/strato-emu/compat-list/issues/new/choose) for it by filling all the details in the form.
+* **If you can find one**: You can comment on the existing issue given what you see compatibility differs from the previous report.   
+* **If you cannot find an existing report**: You can go ahead and [create an issue](https://github.com/K11MCH1/Winlator101/issues/new/choose) for it by filling all the details in the form.
 
 
 # Winlator versions
