@@ -231,7 +231,8 @@ body:
       description: "If this is a Bionic container, check this."
       options:
         - label: "This is a Bionic container."
-          required: true
+    validations:
+      required: true
 
 
 
