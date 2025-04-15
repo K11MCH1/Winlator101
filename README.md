@@ -50,3 +50,24 @@ As a general guideline, media should be included when it is useful to do so and 
 * **Freeze**: A video is generally useful to fully understand what the bug is and in this case it should be included, it is important to show Performance Statistics by having DXVK_HUD, GALLIUM_HUD, MANGO_HUD, mesa hud or the Winlator HUD enabled in this case as it helps to determine the exact point of the freeze.
 * **Auditory Glitch**: A video is useful when there are random dropouts in audio or if it doesn't sound correct, an exception is when the game is not playing any audio at all in which case there is no need to upload a image/video.
 * **Visual Bug/Glitch**: At minimum, a photo is required here when the glitching is persistent. A video is useful if the glitch is very visually diverse or pops in occassionally rather than being persistent.
+
+
+# User Documentation  
+
+* Installation
+
+## Main Settings
+
+* Shortcuts
+* Containers
+* Input Controls
+* Saves
+* Box64 RCFile
+* Contents
+* Adrenotools GPU Drivers (Winlator Bionic)
+* Settings
+
+## Main Settings
+  
+
+
