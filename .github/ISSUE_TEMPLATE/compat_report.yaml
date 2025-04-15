@@ -231,20 +231,44 @@ body:
       description: "If this is a Bionic container, check this."
       options:
         - label: "This is a Bionic container."
+
+  - type: dropdown
+    id: graphics_driver
+    attributes:
+      label: "Graphics Drivers"
+      options:
+        - Turnip
+        - VirGL
+        - Wrapper
+      default: 0  # First option selected
+  - type: input
+    id: graphics_driver_input
+    attributes:
+      label: "Driver Version"
+      description: "Enter the version used (e.g. `turnip v25.1.0-R6`)."
+      placeholder: "System Driver"
     validations:
       required: true
 
-
-
   - type: dropdown
-    id: dxvk
+    id: dx_wrapper
     attributes:
-      label: "DXVK"
+      label: "DX Wrapper"
       options:
-        - DISABLED
-        - ENABLED
+        - WineD3D
+        - DXVK
+        - VKD3D
+        - CNC DDraw
       default: 0  # First option selected
-      
+
+  - type: input
+    id: dx_wrapper_input
+    attributes:
+      label: "Wrapper Version"
+      description: "Enter the version used (e.g. `DXVK 2.6.1`)."
+      placeholder: "DXVK 1.10.3"
+    validations:
+      required: true
 
   - type: dropdown
     id: androidversion
