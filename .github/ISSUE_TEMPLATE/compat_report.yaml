@@ -92,10 +92,8 @@ body:
     attributes:
       label: "FASTNAN"
       options:
-        - 0
-        - 1
-        - 2
-        - 3  
+        - label: DISABLED
+        - label: ENABLED 
   
   - type: dropdown
     id: androidversion
