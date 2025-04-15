@@ -292,7 +292,20 @@ body:
       default: 0  # First option selected
 
 
-
+  - type: dropdown
+    id: socvendor
+    attributes:
+      label: SoC type
+      options:
+      - Snapdragon
+      - Mediatek
+      - Exynos
+      - Kirin
+      - Tegra
+      - UNISOC
+      - Other
+    validations:
+      required: true
 
 
   - type: dropdown
