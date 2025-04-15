@@ -16,6 +16,7 @@ body:
     attributes:
       value: "# **WINLATOR SETTINGS**"
 
+
   - type: input
     id: build
     attributes:
@@ -47,6 +48,7 @@ body:
       default: 0  # First item in the list is selected by default
     validations:
       required: true
+
 
   - type: markdown
     attributes:
