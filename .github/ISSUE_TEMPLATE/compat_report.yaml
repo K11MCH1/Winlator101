@@ -17,7 +17,7 @@ body:
     attributes:
       label: "Winlator version"
       description: "Enter the Winlator version used (e.g. `Winlator Cmod 11 Beta5`)."
-      placeholder: "#1337"
+      placeholder: "Winlator Frost, Afei, Cmod etc.."
     validations:
       required: true
 
