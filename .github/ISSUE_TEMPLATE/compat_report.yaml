@@ -87,7 +87,7 @@ body:
         - 2
         - 3
 
-  - type: checboxes
+  - type: checkboxes
     id: fastnan
     attributes:
       label: "FASTNAN"
