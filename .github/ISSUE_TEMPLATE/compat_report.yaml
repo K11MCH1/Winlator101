@@ -7,7 +7,7 @@ body:
     id: existing_issue
     attributes:
       label: "Is there an existing issue for this?"
-      description: "Search to see if an issue already exists for this game."
+      description: "Search to see if an issue already exists for this game on the same soc and winlator version."
       options:
         - label: "I have searched the existing issues"
           required: true
