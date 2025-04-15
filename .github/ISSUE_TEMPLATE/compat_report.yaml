@@ -48,6 +48,11 @@ body:
     validations:
       required: true
 
+  - type: markdown
+    attributes:
+      value: "# **PRESET SETTINGS**"
+
+
   - type: dropdown
     id: preset
     attributes:
@@ -136,7 +141,45 @@ body:
         - 1024
       default: 3  # Fourth option selected
 
+  - type: dropdown
+    id: callret
+    attributes:
+      label: "CALLRET"
+      options:
+        - DISABLED
+        - ENABLED
+      default: 0  # First option selected
 
+  - type: dropdown
+    id: wait
+    attributes:
+      label: "WAIT"
+      options:
+        - DISABLED
+        - ENABLED
+      default: 0  # First option selected
+
+
+  - type: dropdown
+    id: avx
+    attributes:
+      label: "AVX"
+      options:
+        - 0
+        - 1
+        - 2
+      default: 0  # First option selected
+
+
+  - type: dropdown
+    id: weakbarrier
+    attributes:
+      label: "WEAKBARRIER"
+      options:
+        - 0
+        - 1
+        - 2
+      default: 0  # First option selected
 
 
 
