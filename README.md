@@ -55,6 +55,7 @@ As a general guideline, media should be included when it is useful to do so and 
 # User Documentation  
 
 * Installation
+* Main Screen
 
 ## Main Settings
 
@@ -67,7 +68,14 @@ As a general guideline, media should be included when it is useful to do so and 
 * Adrenotools GPU Drivers (Winlator Bionic)
 * Settings
 
-## Main Settings
+## Container Settings
+
+* Main Settings
+* Wine Configuration
+* Win Components
+* Envionment Variables
+* Drives
+* Advanced
   
 
 
