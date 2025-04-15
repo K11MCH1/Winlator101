@@ -12,10 +12,6 @@ body:
         - label: "I have searched the existing issues"
           required: true
 
-  - type: markdown
-    attributes:
-      value: "# **WINLATOR SETTINGS**"
-
 
   - type: input
     id: build
@@ -25,6 +21,11 @@ body:
       placeholder: "Winlator 9, 10, Cmod, Afei etc.."
     validations:
       required: true
+
+
+  - type: markdown
+    attributes:
+      value: "# **WINLATOR SETTINGS**"
 
   - type: input
     id: wine
