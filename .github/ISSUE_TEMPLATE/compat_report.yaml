@@ -40,7 +40,7 @@ body:
         - BOX86
         - WOW64
         - FEXcore
-      default: "BOX64"
+      default: 0  # First item in the list is selected by default
     validations:
       required: true
 
@@ -55,7 +55,7 @@ body:
         - Performance
         - Custom
         - FEXcore
-      default: "Compatibility"
+      default: 1  # "Compatibility" is the second item, so index = 1
 
   - type: markdown
     attributes:
@@ -69,6 +69,7 @@ body:
         - 0
         - 1
         - 2
+      default: 0  # First option selected
 
   - type: dropdown
     id: androidversion
@@ -81,7 +82,7 @@ body:
         - 12
         - 11
         - 10
-      default: "15 Beta"
+      default: 0  # "15 Beta" is the first item, so index = 0
     validations:
       required: true
 
