@@ -35,10 +35,10 @@ body:
       label: BOX version
       description: Select the BOX version used.
       options:
-        one: BOX64
-        two: BOX86
-        three: WOW64
-        four: FEXcore
+      - one: BOX64
+      - two: BOX86
+      - three: WOW64
+      - four: FEXcore
     validations:
       required: true
       
