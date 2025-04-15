@@ -29,16 +29,16 @@ body:
     validations:
       required: true
       
-  - type: checkboxes
+  - type: dropdown
     id: box
     attributes:
       label: BOX version
       description: Select the BOX version used.
       options:
-      - label: BOX64
-      - label: BOX86
-      - label: WOW64
-      - label: FEXcore
+      - lBOX64
+      - BOX86
+      - WOW64
+      - FEXcore
     validations:
       required: true
       
