@@ -96,7 +96,7 @@ body:
       options:
         - label: DISABLED
         - label: ENABLED
-        default: 1
+      default: "DISABLED"
   
   - type: dropdown
     id: androidversion
