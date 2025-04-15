@@ -312,11 +312,10 @@ body:
   - type: checkboxes
     id: log_info
     attributes:
-      label: "Is Log Level set to 'Info'?"
-      description: "Log Level must be set to `Info` for all attached logs."
+      label: "Confirm `Debug` and `BOX86/BOX64` logging is enabled."
+      description: "For posting logs make sure these are enabled."
       options:
         - label: "Yes"
-          required: true
 
   - type: textarea
     id: log
