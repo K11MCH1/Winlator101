@@ -56,7 +56,7 @@ In general, a log is required for the aforementioned issues to enable developers
 #### How do I enable logs and where do I find them?
 
 <p align="center">
-	<img src="enabling_logs.gif" alt="Search Tool" />  
+	<img src="enabling_logs.png" alt="Search Tool" />  
 </p>
 
 # Resources
