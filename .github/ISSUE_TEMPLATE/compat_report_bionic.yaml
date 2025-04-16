@@ -66,7 +66,6 @@ body:
     id: graphics_driver
     attributes:
       label: "Graphics Drivers"
-      description: "Do not select `Wrapper` if the container is not Bionic."
       options:
         - Turnip
         - Wrapper
