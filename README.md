@@ -81,6 +81,11 @@ Winlator logs can be located in the `Interal Storage/Download/Winlator/logs`
 * Doitsujin's DXVK
 * HansKristian's VKD3D
 
+## Extras
+
+* BOX64 Variables
+* BOX86 Variables
+* Mesa Variables
 
 # User Documentation  
 
@@ -106,11 +111,4 @@ Winlator logs can be located in the `Interal Storage/Download/Winlator/logs`
 * Envionment Variables
 * Drives
 * Advanced
-
-## Extras
-
-* BOX64 Variables
-* BOX86 Variables
-* Mesa Variables
-* 
 
