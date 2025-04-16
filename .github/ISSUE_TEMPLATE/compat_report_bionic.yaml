@@ -114,6 +114,7 @@ body:
     id: services
     attributes:
       label: "Startup Selection"
+      description: "The mode for Services on startup."
       options:
         - Normal
         - Essential
