@@ -46,7 +46,7 @@ You can start contributing by checking if any title you want to test already has
 * **If you can find one**: You can comment on the existing issue given what you see compatibility differs from the previous report.   
 * **If you cannot find an existing report**: You can go ahead and [create an issue](https://github.com/K11MCH1/Winlator101/issues/new/choose) for it by filling all the details in the form.
 
-Please make sure to add the following tags at the end of the title to enable us to quickly label and categorise them.
+Please make sure to add one of the following tags at the end of the title to allow us to quickly label and categorise them.
 
 * Official glibc
 * Official proot
