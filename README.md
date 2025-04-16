@@ -55,9 +55,15 @@ In general, a log is required for the aforementioned issues to enable developers
 
 #### How do I enable logs and where do I find them?
 
+You can enable logs in the main settings of Winlator under the "Logs" category as seen in the picture below.
+
 <p align="center">
-	<img src="enabling_logs.png" alt="Search Tool" />  
+	<img src="enabling_logs.png" width="540" height="328" alt="Search Tool" />  
 </p>
+
+Occasionally, developers may require adjustments to these settings to obtain the relevant information they need. This can involve adding or removing variables, as indicated in the green boxes.
+
+Winlator logs can be located in the `Interal Storage/Download/Winlator/logs`
 
 # Resources
 
