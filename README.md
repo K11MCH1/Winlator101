@@ -48,12 +48,17 @@ You can start contributing by checking if any title you want to test already has
 
 Please make sure to add the following tags at the end of the title to enable us to quickly label and categorise them.
 
-* Official
+* Official glibc
+* Official proot
 * Cmod Bionic
-* Cmod
-* Frost
-* Afeimod
-* AJAY
+* Cmod glibc
+* Cmod proot
+* Frost glibc
+* Frost proot
+* Afeimod glibc
+* Afeimod proot
+* AJAY glibc
+* AJAY proot
 * Longjunyu
 * WinMali
 
