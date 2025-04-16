@@ -1,0 +1,73 @@
+name: Bionic Compatibility
+description: Add a new game to the compatibility database
+title: "<Full game name>"
+labels: ["triage"]
+body:
+  - type: checkboxes
+    id: existing_issue
+    attributes:
+      label: "Is there an existing issue for this?"
+      description: "Search to see if an issue already exists for this game on the same soc and winlator version."
+      options:
+        - label: "I have searched the existing issues"
+          required: true
+
+
+  - type: input
+    id: build
+    attributes:
+      label: "Winlator version"
+      description: "Enter the Winlator version used (e.g. `Winlator Cmod 11 Beta5`)."
+      placeholder: "Winlator 9, 10, Cmod, Afei etc.."
+    validations:
+      required: true
+
+
+  - type: markdown
+    attributes:
+      value: "# **WINLATOR SETTINGS**"
+
+  - type: input
+    id: wine
+    attributes:
+      label: "Wine version"
+      description: "Enter the Wine version used (e.g. `Wine 9.21` or `Proton 9.2`)."
+      placeholder: "Wine 9.2"
+    validations:
+      required: true
+
+
+  
+  - type: markdown
+    attributes:
+      value: "# **PRESET SETTINGS**"
+
+
+    - type: dropdown
+    id: tsomode
+    attributes:
+      label: "TSOMode"
+      options:
+        - DISABLED
+        - FASTEST
+        - FAST
+        - SLOW
+      default: 0  # First option selected
+
+  - type: dropdown
+    id: x87mode
+    attributes:
+      label: "X87Mode"
+      options:
+        - FAST
+        - SLOW
+      default: 0  # First option selected
+
+  - type: dropdown
+    id: multiblock
+    attributes:
+      label: "Multiblock"
+      options:
+        - DISABLED
+        - ENABLED
+      default: 0  # First option selected
