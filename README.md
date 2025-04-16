@@ -34,6 +34,8 @@ Winlator is an Android application that lets you run Windows applications with W
 The [Issues page](https://github.com/K11MCH1/Winlator101/issues) contains a comprehensive repository documenting GitHub Issues related to Windows applications and their compatibility status with Winlator and its various forks. It tracks regressions and improvements in a title's functionality—ranging from `nothing` to  `crash` or fully `playable` based off the `soc` and `winlator version`—while incorporating metadata for efficient retesting. 
 Given the fragmentation of Android devices and the variety of existing Winlator forks, compiling this list will be a thorough process requiring users to invest some time when submitting a post. The extensive nature of the compatibility database ensures accurate tracking across different setups, helping developers and users identify critical issues and optimize performance effectively.  
 
+# GUIDELINES
+
 #### How do I contribute?
 You can start contributing by checking if any title you want to test already has a [**issue**](https://github.com/K11MCH1/Winlator101/issues) by using the search feature: 
 
@@ -43,6 +45,19 @@ You can start contributing by checking if any title you want to test already has
 
 * **If you can find one**: You can comment on the existing issue given what you see compatibility differs from the previous report.   
 * **If you cannot find an existing report**: You can go ahead and [create an issue](https://github.com/K11MCH1/Winlator101/issues/new/choose) for it by filling all the details in the form.
+
+Please make sure to add the following tags at the end of the title to enable us to quickly label and categorise them.
+
+* Official
+* Cmod Bionic
+* Cmod
+* Frost
+* Afeimod
+* AJAY
+* Longjunyu
+* WinMali
+
+⚠️ **Duplicate titles with the same soc and winlator version will be removed** ⚠️
 
 #### Should I include a image/video?
 As a general guideline, media should be included when it is useful to do so and provides information that cannot be conveyed via text, these guidelines serve as a rough idea of why they may be important in certain circumstances and not in others. Additionally, any media captured **must** be a direct screen capture rather than an external recording using another phone or a camera. If it is impossible to do so due to the nature of the bug, this can be ignored but generally it shouldn't be.
