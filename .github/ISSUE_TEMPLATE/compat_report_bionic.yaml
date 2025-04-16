@@ -41,7 +41,7 @@ body:
       value: "# **PRESET SETTINGS**"
 
 
-    - type: dropdown
+  - type: dropdown
     id: tsomode
     attributes:
       label: "TSOMode"
