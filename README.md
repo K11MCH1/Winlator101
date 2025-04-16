@@ -51,6 +51,22 @@ As a general guideline, media should be included when it is useful to do so and 
 * **Auditory Glitch**: A video is useful when there are random dropouts in audio or if it doesn't sound correct, an exception is when the game is not playing any audio at all in which case there is no need to upload a image/video.
 * **Visual Bug/Glitch**: At minimum, a photo is required here when the glitching is persistent. A video is useful if the glitch is very visually diverse or pops in occassionally rather than being persistent.
 
+# Resources
+
+## Repositories
+
+* Wine Collection
+* DXVK Collection
+* VKD3D Collection
+* BOX64 Collection
+* Miscellaneous
+* Turnip for glibc Winlator
+* Turnip for Bionic
+* AJAY's Prefix mod
+* PtitSeb's BOX64/BOX86
+* Doitsujin's DXVK
+* HansKristian's VKD3D
+
 
 # User Documentation  
 
@@ -76,6 +92,11 @@ As a general guideline, media should be included when it is useful to do so and 
 * Envionment Variables
 * Drives
 * Advanced
-  
 
+## Extras
+
+* BOX64 Variables
+* BOX86 Variables
+* Mesa Variables
+* 
 
