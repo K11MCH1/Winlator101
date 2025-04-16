@@ -191,13 +191,7 @@ body:
     attributes:
       value: "# **CONTAINER/SHORTCUT SETTINGS**"
 
-  - type: checkboxes
-    id: bionic
-    attributes:
-      label: "BIONIC CONTAINER?"
-      description: "If this is a Bionic container, check this."
-      options:
-        - label: "This is a Bionic container."
+
 
   - type: dropdown
     id: graphics_driver
