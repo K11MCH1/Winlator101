@@ -69,41 +69,7 @@ body:
         - Custom
         - FEXcore
       default: 1  # "Compatibility" is the second item, so index = 1
-
-  - type: markdown
-    attributes:
-      value: "**IF YOU SELECTED 'FEXcore', PLEASE FILL OUT THE OPTIONS BELOW, ELSE SKIP.**"
-
-  - type: dropdown
-    id: tsomode
-    attributes:
-      label: "TSOMode"
-      options:
-        - DISABLED
-        - FASTEST
-        - FAST
-        - SLOW
-      default: 0  # First option selected
-
-  - type: dropdown
-    id: x87mode
-    attributes:
-      label: "X87Mode"
-      options:
-        - FAST
-        - SLOW
-      default: 0  # First option selected
-
-  - type: dropdown
-    id: multiblock
-    attributes:
-      label: "Multiblock"
-      options:
-        - DISABLED
-        - ENABLED
-      default: 0  # First option selected
       
-
 
   - type: markdown
     attributes:
