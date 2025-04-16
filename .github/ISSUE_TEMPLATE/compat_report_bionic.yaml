@@ -61,13 +61,6 @@ body:
     attributes:
       value: "# **CONTAINER/SHORTCUT SETTINGS**"
 
-  - type: checkboxes
-    id: bionic
-    attributes:
-      label: "BIONIC CONTAINER?"
-      description: "If this is a Bionic container, check this."
-      options:
-        - label: "This is a Bionic container."
 
   - type: dropdown
     id: graphics_driver
@@ -76,9 +69,10 @@ body:
       description: "Do not select `Wrapper` if the container is not Bionic."
       options:
         - Turnip
-        - VirGL
         - Wrapper
       default: 0  # First option selected
+
+      
   - type: input
     id: graphics_driver_input
     attributes:
