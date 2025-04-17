@@ -89,7 +89,7 @@ Note²: You cannot save logs for crashes if you boot the game through the game s
 	<img src="log_option.png" width="640" height="420" alt="Search Tool" />  
 </p>
 
-Tap on the save button on the Logs screen to save it.
+Tap on the save button on the Logs screen to save it.  
 Occasionally, developers may require adjustments to these settings to obtain the relevant information they need. This can involve adding or removing variables, as indicated in the green boxes.
 
 Winlator logs can be located in the `Interal Storage/Download/Winlator/logs`
