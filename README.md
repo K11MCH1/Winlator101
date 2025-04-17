@@ -89,23 +89,23 @@ Winlator logs can be located in the `Interal Storage/Download/Winlator/logs`
 
 ## Repositories
 
-* Wine Collection
-* DXVK Collection
-* VKD3D Collection
-* BOX64 Collection
-* Miscellaneous
-* Turnip for glibc Winlator
-* Turnip for Bionic
-* AJAY's Prefix mod
-* PtitSeb's BOX64/BOX86
-* Doitsujin's DXVK
-* HansKristian's VKD3D
+* [Wine Collection](https://github.com/K11MCH1/Winlator101/releases/tag/wine_col)
+* [DXVK Collection](https://github.com/K11MCH1/Winlator101/releases/tag/dxvk_col)
+* [VKD3D Collection](https://github.com/K11MCH1/Winlator101/releases/tag/vkd3d_col)
+* [BOX64 Collection](https://github.com/K11MCH1/Winlator101/releases/tag/box64_col)
+* [Miscellaneous]()
+* [Turnip for glibc Winlator](https://github.com/K11MCH1/WinlatorTurnipDrivers)
+* [Turnip for Bionic](https://github.com/K11MCH1/AdrenoToolsDrivers)
+* [AJAY's Prefix mod](https://github.com/ajay9634/Ajay-prefix/releases/tag/Ajay_prefix)
+* [PtitSeb's BOX64/BOX86](https://github.com/ptitSeb/box64/actions)
+* [Doitsujin's DXVK](https://github.com/doitsujin/dxvk/releases)
+* [HansKristian's VKD3D](https://github.com/HansKristian-Work/vkd3d-proton/releases)
 
 ## Extras
 
-* BOX64 Variables
-* BOX86 Variables
-* Mesa Variables
+* [BOX64 Variables](https://github.com/ptitSeb/box64/blob/main/docs/USAGE.md)
+* [BOX86 Variables](https://github.com/ptitSeb/box86/blob/master/docs/USAGE.md)
+* [Mesa Variables](https://docs.mesa3d.org/envvars.html#gallium-environment-variables)
 
 # User Documentation  
 
