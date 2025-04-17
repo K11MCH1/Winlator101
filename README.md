@@ -81,6 +81,15 @@ You can enable logs in the main settings of Winlator under the "Logs" category a
 	<img src="enabling_logs.png" width="540" height="328" alt="Search Tool" />  
 </p>
 
+Once enabled you can access the log menu when booted into a container:  
+Note: Winlator Bionic saves logs automatically after each session, so accessing this is not required on this fork.  
+Note²: You cannot save logs for crashes if you boot the game through the game shortcut.
+
+<p align="center">
+	<img src="log_option.png" width="640" height="420" alt="Search Tool" />  
+</p>
+
+Tap on the save button on the Logs screen to save it.
 Occasionally, developers may require adjustments to these settings to obtain the relevant information they need. This can involve adding or removing variables, as indicated in the green boxes.
 
 Winlator logs can be located in the `Interal Storage/Download/Winlator/logs`
