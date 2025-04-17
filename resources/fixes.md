@@ -27,6 +27,7 @@ Download: [xaudio2_9_RDR_fix.zip](https://github.com/user-attachments/files/1979
 
 **Assassin's Creed 1**  
 Download: [AC1_fix_eaglePatch.zip](https://github.com/user-attachments/files/19792453/AC1_fix_eaglePatch.zip)  
+<sub>credits: Sergeanur</sub>
 
 ### **Installation**  
 
