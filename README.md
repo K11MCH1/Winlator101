@@ -141,3 +141,12 @@ Winlator logs can be located in the `Interal Storage/Download/Winlator/logs`
 * Drives
 * Advanced
 
+## Communities
+### Discords
+[Emugear International](https://discord.gg/6hrfu9KmcK)  
+[EMUPLAY0 Gaming](https://discord.gg/54UzMKtYjA)  
+
+### Reddit
+[Winlator](https://www.reddit.com/r/winlator/)  
+[EmulationOnAndroid](https://www.reddit.com/r/EmulationOnAndroid/)  
+
