@@ -191,7 +191,14 @@ body:
     attributes:
       value: "# **CONTAINER/SHORTCUT SETTINGS**"
 
-
+  - type: input
+    id: resolution
+    attributes:
+      label: "Resolution"
+      description: "Enter the resolution used (e.g. `720p`, `1080p`..)."
+      placeholder: "720p"
+    validations:
+      required: true
 
   - type: dropdown
     id: graphics_driver
