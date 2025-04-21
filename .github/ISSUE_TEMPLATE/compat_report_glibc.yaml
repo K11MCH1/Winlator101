@@ -208,6 +208,7 @@ body:
         - Turnip
         - VirGL
         - Wrapper
+        - Vortek
       default: 0  # First option selected
   - type: input
     id: graphics_driver_input
