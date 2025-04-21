@@ -47,20 +47,21 @@ You can start contributing by checking if any title you want to test already has
 * **If you cannot find an existing report**: You can go ahead and [create an issue](https://github.com/K11MCH1/Winlator101/issues/new/choose) for it by filling all the details in the form.
 
 Please make sure to add one of the following tags at the end of the title to allow us to quickly label and categorise them.
+E.x: `Teardown [frost glibc]`, `Need for Speed Underground 2 [afeimod proot]`
 
-* Official glibc
-* Official proot
-* Cmod Bionic
-* Cmod glibc
-* Cmod proot
-* Frost glibc
-* Frost proot
-* Afeimod glibc
-* Afeimod proot
-* AJAY glibc
-* AJAY proot
-* Longjunyu
-* WinMali
+* official glibc
+* official proot
+* cmod Bionic
+* cmod glibc
+* cmod proot
+* frost glibc
+* frost proot
+* afeimod glibc
+* afeimod proot
+* ajay glibc
+* ajay proot
+* longjunyu
+* winMali
 
 ⚠️ **Duplicate titles with the same soc and winlator version will be removed** ⚠️
 
