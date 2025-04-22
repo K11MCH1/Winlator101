@@ -54,12 +54,14 @@ You can edit your button and give it a:
 ### **Custom text**  
 This is bugged. The text only appears after closing the editor.  
 
+![image](https://github.com/user-attachments/assets/5cf06a90-0772-424a-a315-2f7c320a8a8d)
 ![image](https://github.com/user-attachments/assets/1457ebb7-82eb-44fa-9e75-55f0359ff5cf)
 
 
 ### **Custom Icon**  
 Also bugged showing up after closing the editor.  
 
+![image](https://github.com/user-attachments/assets/0d528865-015a-4e1c-b589-ecd3e902d7bb)
 ![image](https://github.com/user-attachments/assets/5e2b5036-b9cf-4957-8e50-d455bd7e13d7)
 
 
