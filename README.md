@@ -124,7 +124,7 @@ Winlator logs can be located in the `Interal Storage/Download/Winlator/logs`
 
 ## Main Settings
 
-* Shortcuts
+* [Shortcuts](/docs/shortcuts.md)
 * Containers
 * [Input Controls](/docs/input_controls.md)
 * Saves
