@@ -119,7 +119,7 @@ Winlator logs can be located in the `Interal Storage/Download/Winlator/logs`
 
 # User Documentation  
 
-* Installation
+* [Installation](/docs/installation.md)
 * Main Screen
 
 ## Main Settings
