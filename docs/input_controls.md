@@ -10,7 +10,7 @@ Here’s an overview of its key features:
 ## Profile
 
 ![image](https://github.com/user-attachments/assets/6378ff65-52e1-44e4-ad06-cc2da37dfa33)   
-Your profiles will appear in this drop down box.  
+Profiles will appear in this drop down box.  
 
 
 ![image](https://github.com/user-attachments/assets/7f7a6ac8-b370-48e8-b19b-4d9268ef678f)  
