@@ -10,7 +10,7 @@ Note: Gamepad mode currently does not work.
 
 ![controls_editor](https://github.com/user-attachments/assets/57104137-dcd8-4532-bbe3-0330d1461523)
 
-As seen on the picture above, tapping anywhere on the grid will move the crosshair to that position.  
+As seen on the picture above, tapping anywhere on the grid will moves the crosshair to that position.  
 
 ![image](https://github.com/user-attachments/assets/d687d0a6-c988-4fd6-a196-e42ce5a0783f)  
 
