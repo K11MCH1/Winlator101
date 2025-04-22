@@ -4,7 +4,7 @@
 	<img src="/docs/images/apk.png" alt="Winlator Logo" />  
 </p>
 
-After downloading from your the official repository or your prefered fork, tap on the .apk file.
+After downloading from the official repository or your prefered fork, tap on the .apk file.
 
 <p align="left">
 	<img src="/docs/images/install_1.jpg" width="400" height="800" alt="install" />  
