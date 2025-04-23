@@ -12,3 +12,6 @@ Which after you can edit to your liking, such as mapping the button to a keyboar
 In example, if you want to bind mouse camera movement to the right analog stick:
 
 ![image](https://github.com/user-attachments/assets/fa7863f5-676f-4940-a941-ca9eaa5bf446)
+
+This can also be used to control the mouse cursor within a container.  
+You can practically turn your controller into a mouse.
