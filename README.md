@@ -21,10 +21,9 @@ Winlator is an Android application that lets you run Windows applications with W
 
 [Official Winlator](https://github.com/brunodev85/winlator)  
 [Winlator Cmod](https://github.com/coffincolors/winlator/releases)  
-[Winlator Cmod Bionic](https://github.com/jhinzuo/winlator_bionic/releases)  
 [Winlator Afeimod](https://github.com/afeimod/winlator-mod/releases/)  
 [Winlator Frost](https://github.com/MrPhryaNikFrosty/Winlator-Frost/releases)  
-[Winlator AJAY](https://github.com/ajay9634/winlator-ajay/releases)  
+[Winlator AJAY](https://github.com/ajay9634/winlator-ajay/releases)
 [Winlator Longjunyu2](https://github.com/longjunyu2/winlator/releases) (development paused)  
 [WinlatorMali](https://github.com/Fcharan/WinlatorMali/releases) (probably ceased)  
 
