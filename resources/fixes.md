@@ -36,3 +36,14 @@ Download: [AC1_fix_eaglePatch.zip](https://github.com/user-attachments/files/197
 3- In the game shortcut's Environment Variable list add `WINEDLLOVERRIDES` = `dinput8=n,b`  
 
 **Assassin's Creed 1** (soon - or check https://github.com/Sergeanur/EaglePatch)
+
+&nbsp;
+
+## OFFLINE MONO & GECKO INSTALLERS
+
+If for some reason Winlator won't download them.
+
+Download: http://www.mediafire.com/file/ct51nlnpvly2qn2/offline-wine-mono-gecko.zip - Thanks Generic CPU
+
+1- Extract.
+2- Install.
