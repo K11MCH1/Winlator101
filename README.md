@@ -19,17 +19,17 @@ Winlator is an Android application that lets you run Windows applications with W
 
 # Winlator versions
 
-[Official Winlator](https://github.com/brunodev85/winlator) by Brunodev  
-[Winlator Cmod](https://github.com/coffincolors/winlator/releases) by Coffincolors  
-[Winlator Cmod Bionic](https://github.com/jhinzuo/winlator_bionic/releases) by Coffincolors & Pissblaster
-* [Jhinzou Fork](https://github.com/jhinzuo/winlator/releases)  
+[Official Winlator](https://github.com/brunodev85/winlator) by Brunodev
+[Winlator Cmod](https://github.com/coffincolors/winlator/releases) by Coffincolors
+[Winlator Cmod Bionic](https://github.com/jhinzuo/winlator/releases) by Coffincolors & Pissblaster
+* [Jhinzou Fork](https://github.com/jhinzuo/winlator/releases)
 * [Succubus Fork](https://github.com/Succubussix/winlator-bionic-glibc/releases/tag/Personalize)
 
-[Winlator Afeimod](https://github.com/afeimod/winlator-mod/releases/)  
-[Winlator Frost](https://github.com/MrPhryaNikFrosty/Winlator-Frost/releases)  
-[Winlator AJAY](https://github.com/ajay9634/winlator-ajay/releases)  
-[Winlator Longjunyu2](https://github.com/longjunyu2/winlator/releases) (development paused)  
-[WinlatorMali](https://github.com/Fcharan/WinlatorMali/releases) (probably ceased)  
+[Winlator Afeimod](https://github.com/afeimod/winlator-mod/releases/)
+[Winlator Frost](https://github.com/MrPhryaNikFrosty/Winlator-Frost/releases)
+[Winlator AJAY](https://github.com/ajay9634/winlator-ajay/releases) (repository archived)
+[Winlator Longjunyu2](https://github.com/longjunyu2/winlator/releases) (development paused)
+[WinlatorMali](https://github.com/Fcharan/WinlatorMali/releases) (probably ceased)
 
 
 # Compatibility list  
@@ -132,10 +132,10 @@ Winlator logs can be located in the `Interal Storage/Download/Winlator/logs`
 * Containers
   * [Containers Cmod Bionic]
 * [Input Controls](/docs/input_controls.md)
-  * [Controls Editor](/docs/controls_editor.md)
+  * [Controls Editor](/docs/condrols_editor.md)
   * [External Controller Editor](/docs/external_controllers_editor.md)
 * Saves
-* Box64 RCFile
+* [Box64 RCFile](/docs/box_rc_file.md)
 * Contents
 * Adrenotools GPU Drivers (Winlator Bionic)
 * Settings
