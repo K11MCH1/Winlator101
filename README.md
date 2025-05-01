@@ -31,6 +31,7 @@ Winlator is an Android application that lets you run Windows applications with W
 [Winlator Longjunyu2](https://github.com/longjunyu2/winlator/releases) (development paused)  
 [WinlatorMali](https://github.com/Fcharan/WinlatorMali/releases) (probably ceased)  
 
+---
 
 # Compatibility list  
 
@@ -66,7 +67,7 @@ E.x: `Teardown [frost glibc]`, `Need for Speed Underground 2 [afeimod proot]`
 * longjunyu
 * winMali
 
-⚠️ **Duplicate titles with the same soc and winlator version will be removed** ⚠️
+> ⚠️ **Duplicate titles with the same soc and winlator version will be removed** ⚠️
 
 #### Should I include a image/video?
 As a general guideline, media should be included when it is useful to do so and provides information that cannot be conveyed via text, these guidelines serve as a rough idea of why they may be important in certain circumstances and not in others. Additionally, any media captured **must** be a direct screen capture rather than an external recording using another phone or a camera. If it is impossible to do so due to the nature of the bug, this can be ignored but generally it shouldn't be.
@@ -97,6 +98,8 @@ Tap on the save button on the Logs screen to save it.
 Occasionally, developers may require adjustments to these settings to obtain the relevant information they need. This can involve adding or removing variables, as indicated in the green boxes.
 
 Winlator logs can be located in the `Interal Storage/Download/Winlator/logs`
+
+---
 
 # Resources
 
