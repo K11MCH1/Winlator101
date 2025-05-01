@@ -141,8 +141,9 @@ body:
       - G3X Gen2
       - 8 Gen2
       - 8 Gen1
-      - sd888
-      - sd870
+      - SD888
+      - SD870
+      - SD865
     validations:
       required: true
 
