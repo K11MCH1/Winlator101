@@ -133,18 +133,27 @@ Winlator logs can be located in the `Interal Storage/Download/Winlator/logs`
 * [Shortcuts](/docs/shortcuts.md)
   * [Shortcuts Settings](/docs/shortcuts_settings.md)
 * Containers
-  * [Containers Official]
-  * [Winlator Cmod](/docs/containers_cmod.md) 
+    * <details>
+      <summary>Winlator Official</summary>
+
+      [Main Settings](/docs/containers_official/main_settings.md)  
+      [Wine Configuration](/docs/containers_official/wine_config.md)  
+      [Win Components](/docs/containers_official/win_comp.md)  
+      [Environment Variables](/docs/containers_official/env_vars.md)  
+      [Drives](/docs/containers_official/drives.md)  
+      [Advanced](/docs/containers_official/advanced.md)  
+  
+      </details>
 
     * <details>
       <summary>Winlator Cmod</summary>
 
-      [Main Settings](/docs/containers_cmod/main_settings.md)
-      [Wine Configuration](/docs/containers_cmod/wine_config.md)
-      [Win Components](/docs/containers_cmod/win_comp.md)
-      [Environment Variables](/docs/containers_cmod/env_vars.md)
-      [Drives](/docs/containers_cmod/drives.md)
-      [Advanced](/docs/containers_cmod/advanced.md)
+      [Main Settings](/docs/containers_cmod/main_settings.md)  
+      [Wine Configuration](/docs/containers_cmod/wine_config.md)  
+      [Win Components](/docs/containers_cmod/win_comp.md)  
+      [Environment Variables](/docs/containers_cmod/env_vars.md)  
+      [Drives](/docs/containers_cmod/drives.md)  
+      [Advanced](/docs/containers_cmod/advanced.md)  
   
       </details>
 
