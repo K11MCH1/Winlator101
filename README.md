@@ -146,12 +146,8 @@ Winlator logs can be located in the `Interal Storage/Download/Winlator/logs`
 
 ## Container Settings
 
-* Main Settings
-* Wine Configuration
-* Win Components
-* Envionment Variables
-* Drives
-* Advanced
+Official
+[Cmod](/docs/containers_cmod.md)
 
 ## Communities
 ### Discords
