@@ -137,7 +137,7 @@ Winlator logs can be located in the `Interal Storage/Download/Winlator/logs`
   * [Winlator Cmod](/docs/containers_cmod.md) 
 
     * <details>
-      <summary>Click to expand links</summary>
+      <summary>Winlator Cmod</summary>
 
       [Main Settings](/docs/containers_cmod/main_settings.md)
       [Wine Configuration](/docs/containers_cmod/wine_config.md)
