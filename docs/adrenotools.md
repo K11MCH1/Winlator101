@@ -13,7 +13,7 @@ These drivers need to be Adrenotools compatible packaged in `.zip` and not be pa
 
 > [!NOTE]
 > ## GPU quirks & compatibility
-> Certain GPU driver limitations still apply within this environment. For instance, Snapdragon 8 Elite GPU drivers are not backward compatible with older Adreno GPUs. Similarly, Meta Quest drivers may not function properly on Adreno 7xx GPUs, potentially requiring a special compatibility patch to ensure proper operation.
+> <samp>Certain GPU driver limitations still apply within this environment. For instance, Snapdragon 8 Elite GPU drivers are not backward compatible with older Adreno GPUs. Similarly, Meta Quest drivers may not function properly on Adreno 7xx GPUs, potentially requiring a special compatibility patch to ensure proper operation.</samp>
 
 
 
