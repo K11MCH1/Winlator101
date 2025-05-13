@@ -137,14 +137,14 @@ Winlator logs can be located in the `Interal Storage/Download/Winlator/logs`
   * [Winlator Cmod](/docs/containers_cmod.md) 
 
     * <details>
-  <summary>Click to expand links</summary>
+      <summary>Click to expand links</summary>
 
-  - [Main Settings](/docs/containers_cmod/main_settings.md)
-  - [Wine Configuration](/docs/containers_cmod/wine_config.md)
-  - [Win Components](/docs/containers_cmod/win_comp.md)
-  - [Environment Variables](/docs/containers_cmod/env_vars.md)
-  - [Drives](/docs/containers_cmod/drives.md)
-  - [Advanced](/docs/containers_cmod/advanced.md)
+      [Main Settings](/docs/containers_cmod/main_settings.md)
+      [Wine Configuration](/docs/containers_cmod/wine_config.md)
+      [Win Components](/docs/containers_cmod/win_comp.md)
+      [Environment Variables](/docs/containers_cmod/env_vars.md)
+      [Drives](/docs/containers_cmod/drives.md)
+      [Advanced](/docs/containers_cmod/advanced.md)
   
       </details>
 
