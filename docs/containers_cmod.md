@@ -3,6 +3,7 @@
 ---  
 
 The Container Settings in Winlator allow users to configure various aspects of their Windows emulation environment. Here are some key options available in this menu:  
+
 <p align="center">
 [Main Settings](/docs/containers_cmod/main_settings.md)  
 [Wine Configuration](/docs/containers_cmod/wine_config.md)  
