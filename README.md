@@ -132,7 +132,9 @@ Winlator logs can be located in the `Interal Storage/Download/Winlator/logs`
 
 * [Shortcuts](/docs/shortcuts.md)
   * [Shortcuts Settings](/docs/shortcuts_settings.md)
-* Containers
+  
+* <details>
+* <summary>Containers</summary>
     * <details>
       <summary>Winlator Official</summary>
 
@@ -156,6 +158,7 @@ Winlator logs can be located in the `Interal Storage/Download/Winlator/logs`
       [Advanced](/docs/containers_cmod/advanced.md)  
   
       </details>
+  </details>
 
 * [Input Controls](/docs/input_controls.md)
   * [Controls Editor](/docs/condrols_editor.md)
