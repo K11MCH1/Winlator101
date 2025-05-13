@@ -134,7 +134,7 @@ Winlator logs can be located in the `Interal Storage/Download/Winlator/logs`
   * [Shortcuts Settings](/docs/shortcuts_settings.md)
 * Containers
   * [Containers Official]
-  * [Containers Cmod Bionic]
+  * [Winlator Cmod](/docs/containers_cmod.md) 
 * [Input Controls](/docs/input_controls.md)
   * [Controls Editor](/docs/condrols_editor.md)
   * [External Controller Editor](/docs/external_controllers_editor.md)
@@ -142,12 +142,7 @@ Winlator logs can be located in the `Interal Storage/Download/Winlator/logs`
 * [Box64 RCFile](/docs/box_rc_file.md)
 * [Contents](/docs/contents.md)
 * [Adrenotools GPU Drivers](/docs/adrenotools.md)
-* Settings
-
-## Container Settings
-
-Winlator Official  
-[Winlator Cmod](/docs/containers_cmod.md)  
+* Settings  
 
 ## Communities
 ### Discords
