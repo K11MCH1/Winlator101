@@ -6,7 +6,7 @@
 
 The Adrenotools GPU Drivers menu allows users to install Adreno GPU drivers for improved performance and compatibility. This menu allows the installation of different driver versions, including Mesa Turnip drivers and Qualcomm drivers.  
 
-These drivers need to be Adrenotools compatible packaged in `.zip` and not be packaged for Magisk or systemwide installation such TWRP packages.  
+These drivers need to be Adrenotools compatible packaged in `.zip` and not be packaged for Magisk or systemwide installation such as TWRP packages.  
 
 ---  
 
