@@ -140,7 +140,7 @@ Winlator logs can be located in the `Interal Storage/Download/Winlator/logs`
 * Saves
 * [Box64 RCFile](/docs/box_rc_file.md)
 * [Contents](/docs/contents.md)
-* Adrenotools GPU Drivers (Winlator Bionic)
+* [Adrenotools GPU Drivers](/docs/adrenotools.md)
 * Settings
 
 ## Container Settings
