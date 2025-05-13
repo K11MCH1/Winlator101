@@ -135,6 +135,7 @@ Winlator logs can be located in the `Interal Storage/Download/Winlator/logs`
 * Containers
   * [Containers Official]
   * [Winlator Cmod](/docs/containers_cmod.md) 
+
     * <details>
   <summary>Click to expand links</summary>
 
@@ -145,7 +146,8 @@ Winlator logs can be located in the `Interal Storage/Download/Winlator/logs`
   - [Drives](/docs/containers_cmod/drives.md)
   - [Advanced](/docs/containers_cmod/advanced.md)
   
-</details>
+      </details>
+
 * [Input Controls](/docs/input_controls.md)
   * [Controls Editor](/docs/condrols_editor.md)
   * [External Controller Editor](/docs/external_controllers_editor.md)
