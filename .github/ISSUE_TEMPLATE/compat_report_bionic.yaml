@@ -33,10 +33,10 @@ body:
     attributes:
       label: "TSOMode"
       options:
-        - DISABLED
         - FASTEST
         - FAST
         - SLOW
+        - SLOWEST
       default: 0  # First option selected
 
   - type: dropdown
@@ -137,13 +137,22 @@ body:
       label: SoC
       options:
       - 8 Elite
-      - 8 Gen3
       - G3X Gen2
+      - 8 Gen3
       - 8 Gen2
       - 8 Gen1
+      - 7 Gen2
+      - 7+Gen2
+      - 7sGen2
+      - 7 Gen3
       - SD888
       - SD870
       - SD865
+      - 480 Plus
+      - Helio G99
+      - Exynos 1380
+      
+
     validations:
       required: true
 
