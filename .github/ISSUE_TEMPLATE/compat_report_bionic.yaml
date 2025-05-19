@@ -90,7 +90,7 @@ body:
     validations:
       required: true
 
-    - type: dropdown
+  - type: dropdown
     id: emulator
     attributes:
       label: "Emulator"
