@@ -90,6 +90,15 @@ body:
     validations:
       required: true
 
+    - type: dropdown
+    id: emulator
+    attributes:
+      label: "Emulator"
+      options:
+        - FEXCore
+        - BOX64
+      default: 0  # First option selected
+
   - type: dropdown
     id: dx_wrapper
     attributes:
