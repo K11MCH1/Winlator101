@@ -78,7 +78,7 @@ body:
       options:
         - Turnip
         - Wrapper
-      default: 0  # First option selected
+      default: 1  # Second option selected
 
       
   - type: input
@@ -108,7 +108,7 @@ body:
         - DXVK
         - VKD3D
         - CNC DDraw
-      default: 0  # First option selected
+      default: 1  # Second option selected
 
   - type: input
     id: dx_wrapper_input
@@ -126,7 +126,7 @@ body:
       options:
         - ALSA
         - PulseAudio
-      default: 0  # First option selected
+      default: 1  # Second option selected
 
   - type: dropdown
     id: services
@@ -137,7 +137,7 @@ body:
         - Normal
         - Essential
         - Aggressive
-      default: 0  # First option selected
+      default: 2  # Third option selected
 
 
   - type: dropdown
