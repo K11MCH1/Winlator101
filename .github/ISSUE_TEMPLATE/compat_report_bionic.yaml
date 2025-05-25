@@ -160,6 +160,16 @@ body:
       - 480 Plus
       - Helio G99
       - Exynos 1380
+      - Google Tensor G1
+      - Google Tensor G2
+      - Google Tensor G3
+      - Google Tensor G4
+      - Exynos 850
+      - Exynos 1480
+      - Exynos 1580
+      - Exynos 2200
+      - Exynos 2400
+      - Dimensity 8300
       
 
     validations:
@@ -171,13 +181,14 @@ body:
     attributes:
       label: "Android Version"
       options:
+        - 16 Beta
         - 15 Beta
         - 14
         - 13
         - 12
         - 11
         - 10
-      default: 0  # "15 Beta" is the first item, so index = 0
+      default: 0  # "16 Beta" is the first item, so index = 0
     validations:
       required: true
 
