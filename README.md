@@ -177,6 +177,9 @@ Winlator logs can be located in the `Interal Storage/Download/Winlator/logs`
 [Winlator](https://www.reddit.com/r/winlator/)  
 [EmulationOnAndroid](https://www.reddit.com/r/EmulationOnAndroid/)  
 
+### Telegram
+[WinlatorBrTestes](https://t.me/WinlatorBrTestes) (Brazilian)  
+
 ---  
 
 ### Special Thanks  
