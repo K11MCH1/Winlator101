@@ -1,4 +1,4 @@
-# Installing modules in the Contents menu
+# Installing Adrenotools compatible drivers
 
 ---  
 
