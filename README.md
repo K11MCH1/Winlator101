@@ -123,7 +123,7 @@ Winlator logs can be located in the `Interal Storage/Download/Winlator/logs`
 * [BOX86 Variables](https://github.com/ptitSeb/box86/blob/master/docs/USAGE.md)
 * [Mesa Variables](https://docs.mesa3d.org/envvars.html#gallium-environment-variables)
 * [Steam](/docs/steam.md)
-* [RARE Launcher] (Epic Games)(/docs/rare.md)
+* [RARE Launcher](/docs/rare.md) (Epic Games)
 
 # User Documentation  
 
