@@ -129,6 +129,7 @@ Winlator logs can be located in the `Interal Storage/Download/Winlator/logs`
 
 * [Installation](/docs/installation.md)
 * [Main Screen](/docs/main_screen.md)
+* [Steam](/docs/steam.md). 
 
 ## Main Settings
 
