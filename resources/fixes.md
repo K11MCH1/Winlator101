@@ -47,3 +47,12 @@ Download: http://www.mediafire.com/file/ct51nlnpvly2qn2/offline-wine-mono-gecko.
 
 1- Extract.
 2- Install.
+
+## RED DEAD REDEMPTION PERFORMANCE MOD
+
+A bundle of DDLs that drastically increases performance for this game.
+
+1- Extract.
+2- Place DLLs in main game folder next to the .exe.
+
+Download: [RDR_performance_mod.zip](https://github.com/user-attachments/files/21782292/RDR_performance_mod.zip)
