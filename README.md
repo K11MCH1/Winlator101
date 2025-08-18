@@ -21,7 +21,7 @@ Winlator is an Android application that lets you run Windows applications with W
 
 [Official Winlator](https://github.com/brunodev85/winlator) by Brunodev  
 [Winlator Cmod](https://github.com/coffincolors/winlator/releases) by Coffincolors  
-[Winlator Cmod Bionic](https://github.com/jhinzuo/winlator/releases) by Coffincolors & Pissblaster  
+[Winlator Cmod Bionic](https://github.com/coffincolors/winlator/releases) by Coffincolors & Pissblaster  
 * [Jhinzou Fork](https://github.com/jhinzuo/winlator/releases)  
 * [Succubus Fork](https://github.com/Succubussix/winlator-bionic-glibc/releases/tag/Personalize) (repository archived)
 
