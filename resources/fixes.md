@@ -55,4 +55,15 @@ A bundle of DDLs that drastically increases performance for this game.
 1- Extract.  
 2- Place DLLs in main game folder next to the .exe.
 
-Download: [RDR_performance_mod.zip](https://github.com/user-attachments/files/21782292/RDR_performance_mod.zip)
+Download: [RDR_performance_mod.zip](https://github.com/user-attachments/files/21782292/RDR_performance_mod.zip)  
+
+## WRAPPER FIX FOR WINLATOR CMOD V13
+
+This fixes some dx12 compatibility and other things. Tested on Winlator Cmod v13 and v13.1.1.
+
+1- Unpack and place the .so file in Z:/lib within a container.
+
+Note: This might break some games. Make sure to back up the original or you will need to Reinstall ImageFS in the Winlator main settings.
+
+Download: [libvulkan_wrapper.zip](https://github.com/user-attachments/files/21919963/libvulkan_wrapper.zip)
+
