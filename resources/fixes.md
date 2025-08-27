@@ -67,11 +67,14 @@ Note: This might break some games. Make sure to back up the original or you will
 
 Download: [libvulkan_wrapper.zip](https://github.com/user-attachments/files/21919963/libvulkan_wrapper.zip)  
 
-## MEDIAFOUNDATION  
+## MEDIAFOUNDATION FOR ARM64EC PROTON 9 & 10
 
 A bundle of libraries that handle video playback in games. Used to fix, or partially fix, missing video playback or playback crashes.  
 
-1- Unpack and run the install bat file.
+1- Unpack and run the install bat file in the 64bit folder.
+
+Download: [mediafoundation.zip](https://github.com/user-attachments/files/22006182/mediafoundation.zip)
+
 
 Note: This replaces the original files in the ImageFS which may break games that don't need this. To revert this you will have to delete containers and reinstall ImageFS in the Winlator main settings.  
 Credits: JeezDisReez
