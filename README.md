@@ -105,11 +105,11 @@ Winlator logs can be located in the `Interal Storage/Download/Winlator/logs`
 
 ## Repositories
 
+* [Resources](https://github.com/K11MCH1/Winlator101/blob/main/resources/fixes.md)
 * [Wine Collection](https://github.com/K11MCH1/Winlator101/releases/tag/wine_col)
 * [DXVK Collection](https://github.com/K11MCH1/Winlator101/releases/tag/dxvk_col)
 * [VKD3D Collection](https://github.com/K11MCH1/Winlator101/releases/tag/vkd3d_col)
 * [BOX64 Collection](https://github.com/K11MCH1/Winlator101/releases/tag/box64_col)
-* [Resources](https://github.com/K11MCH1/Winlator101/blob/main/resources/fixes.md)
 * [Turnip for glibc Winlator](https://github.com/K11MCH1/WinlatorTurnipDrivers)
 * [Turnip for Bionic](https://github.com/K11MCH1/AdrenoToolsDrivers)
 * [AJAY's Prefix mod](https://github.com/ajay9634/Ajay-prefix/releases/tag/Ajay_prefix)
